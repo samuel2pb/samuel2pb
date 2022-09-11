@@ -14,23 +14,14 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
   <img align="center" alt="Samuel-airflow" height="60" width="60" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png">
-</div>
   <img align="center" alt="Samuel-Spark" height="60" width="100" src="https://spark.apache.org/images/spark-logo-trademark.png">
-</div>
   <img align="center" alt="Samuel-MySQL" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
   <img align="center" alt="Samuel-PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
-</div>
   <img align="center" alt="Samuel-linux" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
-  <img align="center" alt="Samuel-gcp" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
-</div>
-  <img align="center" alt="Samuel-aws" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-</div>
+  <img align="center" alt="Samuel-gcp" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+  <img align="center" alt="Samuel-aws" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Samuel-terraform" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg">
-</div>
   <img align="center" alt="Samuel-docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
 </div>     
 
