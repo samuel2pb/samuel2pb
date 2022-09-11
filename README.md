@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  <img align="center" alt="Samuel-airflow" height="40" width="80" src=![image](https://user-images.githubusercontent.com/85443064/189547888-f025dbe1-2281-41f7-a049-c8b9929c1250.png)
+  <img align="center" alt="Samuel-airflow" height="40" width="80" src="src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/800px-AirflowLogo.png">
 </div>
   <img align="center" alt="Samuel-Spark" height="40" width="80" src="https://spark.apache.org/images/spark-logo-trademark.png">
 </div>
