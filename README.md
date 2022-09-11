@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  <img align="center" alt="Samuel-airflow" height="60" width="110" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/800px-AirflowLogo.png">
+  <img align="center" alt="Samuel-airflow" height="60" width="60" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png">
 </div>
   <img align="center" alt="Samuel-Spark" height="60" width="100" src="https://spark.apache.org/images/spark-logo-trademark.png">
 </div>
@@ -37,10 +37,11 @@
 ### 📫 How to reach me: 
   
 <div> 
-  <a href ="mailto:samuelpedropbarbosa@gmail.com" target="_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:samuelpedropbarbosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel2pb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5511932259543" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
+
+
 <!--
 **samuel2pb/samuel2pb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
