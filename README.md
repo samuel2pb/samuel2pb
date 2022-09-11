@@ -13,31 +13,31 @@
 ### ⚡ Technologies I'm currently using on my daily basis as a data engineer and my personal projects:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Samuel-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  <img align="center" alt="Samuel-airflow" height="30" width="40" xmlns="http://www.w3.org/2000/svg">
+  <img align="center" alt="Samuel-airflow" height="40" width="80" xmlns="http://www.w3.org/2000/svg">
 </div>
-  <img align="center" alt="Samuel-Spark" height="30" width="40" src="https://spark.apache.org/images/spark-logo-trademark.png">
+  <img align="center" alt="Samuel-Spark" height="40" width="80" src="https://spark.apache.org/images/spark-logo-trademark.png">
 </div>
-  <img align="center" alt="Samuel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Samuel-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
-  <img align="center" alt="Samuel-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="Samuel-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
-  <img align="center" alt="Samuel-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Samuel-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
-  <img align="center" alt="Samuel-gcp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+  <img align="center" alt="Samuel-gcp" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
 </div>
-  <img align="center" alt="Samuel-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Samuel-aws" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
-  <img align="center" alt="Samuel-terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg">
+  <img align="center" alt="Samuel-terraform" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg">
 </div>
-  <img align="center" alt="Samuel-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Samuel-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
 </div>     
 
 ### 📫 How to reach me: 
   
 <div> 
-  <a href = "mailto:samuelpedropbarbosa@gmail.com"><img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:samuelpedropbarbosa@gmail.com"><target="_blank><"img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel2pb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5511932259543" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
