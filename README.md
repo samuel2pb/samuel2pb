@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  <img align="center" alt="Samuel-airflow" height="40" width="80" xmlns="http://www.w3.org/2000/svg">
+  <img align="center" alt="Samuel-airflow" height="40" width="80" src=![image](https://user-images.githubusercontent.com/85443064/189547888-f025dbe1-2281-41f7-a049-c8b9929c1250.png)
 </div>
   <img align="center" alt="Samuel-Spark" height="40" width="80" src="https://spark.apache.org/images/spark-logo-trademark.png">
 </div>
@@ -37,7 +37,7 @@
 ### 📫 How to reach me: 
   
 <div> 
-  <a href ="mailto:samuelpedropbarbosa@gmail.com"><target="_blank><"img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:samuelpedropbarbosa@gmail.com" target="_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel2pb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5511932259543" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
