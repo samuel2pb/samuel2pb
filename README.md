@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel2pb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### ⚡ Technologies I'm currently using on my daily basis as a data engineer and my personal projects:
+### ⚡ Technologies I'm currently using on my daily basis as a data engineer:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
