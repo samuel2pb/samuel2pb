@@ -12,9 +12,9 @@
 
 ### ⚡ Technologies I'm currently using on my daily basis as a data engineer:
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Samuel-airflow" height="60" width="60" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png">
   <img align="center" alt="Samuel-Spark" height="60" width="80" src="https://spark.apache.org/images/spark-logo-trademark.png">
   <img align="center" alt="Samuel-MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Samuel-PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
