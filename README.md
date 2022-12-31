@@ -1,6 +1,6 @@
 ### Hi there, I'm Samuel Barbosa 👋 
 
-- 🔭 I’m currently working as a Data Engineering Intern for a major pet retail company in Brazil.
+- 🔭 I’m currently working as a Data Engineer Consultant for a major retail company in Brazil.
 
 - 🌱 I’m currently learning about Data Engineering, Machine Learning and Cloud!
 
