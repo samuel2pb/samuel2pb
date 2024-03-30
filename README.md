@@ -1,6 +1,6 @@
 ### Hi there, I'm Samuel Barbosa 👋 
 
-- 🔭 I’m currently working as a Senior Data Engineer for a major financial company in Brazil.
+- 🔭 I’m currently working as a Data Engineer for a major financial company in Brazil.
 
 - 🌱 I’m currently learning about Data Engineering, Machine Learning and Cloud Architecture !
 
