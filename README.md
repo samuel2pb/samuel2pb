@@ -1,14 +1,7 @@
 ### Hi there, I'm Samuel Barbosa 👋
 
 - 🔭 I’m currently working as a Data Engineer at a major financial company in Brazil.
-
-<div align="center">
-  <a href="https://github.com/samuel2pb">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel2pb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel2pb&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-</div>
-
+  
 ### ⚡ Technologies I use daily as a data engineer
 
 <div style="display: inline_block"><br>
