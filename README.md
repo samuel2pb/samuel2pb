@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="Samuel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel2pb&theme=tokyonight&hide_border=true" />
+    <img alt="Samuel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel2pb&theme=tokyonight&hide_border=true&dates=00000000" />
   </a>
 </p>
 
