@@ -1,4 +1,4 @@
-I do all the data stuff companies need
+I do a bunch of data platform stuff
 
 <p align="center">
   <a href="mailto:samuelpedropbarbosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
